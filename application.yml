@@ -1,6 +1,8 @@
 spring:
   application:
-    name:config-default
+      name:config-default
+server:
+   port:9090
 my:    
   greeting:
     message:  helloworld from config server-main
