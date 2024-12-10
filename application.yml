@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: config-server
 my:    
   greeting:
     message:  helloworld from config server-main
