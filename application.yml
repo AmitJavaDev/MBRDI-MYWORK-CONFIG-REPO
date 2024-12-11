@@ -1,4 +1,4 @@
-message:  helloworld from config server-main
+message:  helloworld from config server-main updated
 eureka:
   instance:
     prefer-ip-address: true
