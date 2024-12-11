@@ -2,7 +2,7 @@ message:  helloworld from config server-main updated
 eureka:
   instance:
     prefer-ip-address: true
-   client:
+    client:
       registerWithEureka: true
       fetchRegistry: true
       service-url: http://localhost:8761/eureka
