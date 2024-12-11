@@ -1,9 +1,4 @@
-spring:
-  application:
-    name: config-server
-my:    
-  greeting:
-    message:  helloworld from config server-main
+message:  helloworld from config server-main
 eureka:
   instance:
     prefer-ip-address: true
